@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="col-12 p-3">
+<img width="100%" class="img-fluid" alt="{{post.name}}" src="{{post.cover}}"/>
+<div class="p-3 bg-white">
+<h3>{{post.name}}</h3>
+<span>author : {{post.author}}</span>
+<p class="lead">{{post.body}}</p>
+</div>
+</div>
+{% endblock %}
