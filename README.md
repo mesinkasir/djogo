@@ -13,6 +13,10 @@ Documentation : [https://www.hockeycomputindo.com/2021/11/django-blog-cms-source
 
 Demo : [https://website.axcora.com](https://website.axcora.com)
 
+
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
+
 ---------------------------------------------------------------
 
 ![django phyton cms free download source code](https://1.bp.blogspot.com/-ReikPYTM7go/YZNF2Cp22oI/AAAAAAAAR7Y/Pn12yN40WHsKdMVgC31v6pYXtMvKFAbtACLcBGAsYHQ/s3162/django%2Bcontent%2Bmanagement%2Bsystem%2Bblog%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis%2B%25285%2529.jpeg)
@@ -56,9 +60,6 @@ User management
 ----------------------------------------------------------
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-with moneygram or western union
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
 
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
+
